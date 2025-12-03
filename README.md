@@ -13,3 +13,4 @@ https://www.figma.com/design/yrFcj44PTfhEQcqAAUgvTI/%D0%9F%D1%80%D0%BE%D1%84%D0%
 
 <img width="1915" height="861" alt="image" src="https://github.com/user-attachments/assets/72ddd225-4d41-4303-ac92-030f92266e15" />
 
+фыв
